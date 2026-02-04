@@ -21,7 +21,7 @@ export default async function HomePage() {
             <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary">
               <Palette className="h-5 w-5 text-primary-foreground" />
             </div>
-            <span className="text-lg font-semibold text-foreground">Brand Hub</span>
+            <span className="text-lg font-semibold text-foreground">Designary</span>
           </div>
           <div className="flex items-center gap-4">
             <Button variant="ghost" asChild>
@@ -154,7 +154,7 @@ export default async function HomePage() {
           <div className="mt-8">
             <Button size="lg" asChild>
               <Link href="/auth/sign-up">
-                Create your brand hub
+                Create your Designary
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Link>
             </Button>
@@ -170,7 +170,7 @@ export default async function HomePage() {
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
                 <Palette className="h-4 w-4 text-primary-foreground" />
               </div>
-              <span className="font-semibold text-foreground">Brand Hub</span>
+              <span className="font-semibold text-foreground">Designary</span>
             </div>
             <p className="text-sm text-muted-foreground">
               Built for designers, by designers.

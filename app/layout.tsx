@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Brand Hub - Design Management Platform',
+  title: 'Designary - Design Management Platform',
   description: 'Manage your brand guidelines, color palettes, typography, and design assets in one place',
   icons: {
     icon: [
