@@ -10,7 +10,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'Brand Hub - Design Management Platform',
   description: 'Manage your brand guidelines, color palettes, typography, and design assets in one place',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
