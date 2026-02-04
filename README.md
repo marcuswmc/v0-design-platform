@@ -1,10 +1,10 @@
-# Brand Hub - Design Management Platform
+# Designary - Design Management Platform
 
 A modern and comprehensive platform for managing brand guidelines, color palettes, typography, and design assets in one place.
 
 ## 🎨 About the Project
 
-Brand Hub is a design management platform that allows you to create and organize brand guidelines in a centralized way. Manage multiple brands, create consistent color palettes, define typographic systems, and keep all your design assets organized.
+Designary is a design management platform that allows you to create and organize brand guidelines in a centralized way. Manage multiple brands, create consistent color palettes, define typographic systems, and keep all your design assets organized.
 
 ### Key Features
 
@@ -77,7 +77,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 📁 Project Structure
 
 ```
-v0-design-platform/
+designary-design-platform/
 ├── app/                    # Routes and pages (App Router)
 │   ├── (dashboard)/       # Protected dashboard routes
 │   │   ├── brands/        # Brand management
